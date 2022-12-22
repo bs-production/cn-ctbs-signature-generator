@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/klaus-logo.svg" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/2948/krs-gs-logos.png" alt="" style="width:475px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Klaus Roofing Systems
+                    &copy;2023 Klaus Roofing Systems | Gutter Shutter
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #E91D24;
+  border-top: 1px dashed #000;
 }
 .gif-box ul {
     text-align:left;
@@ -209,7 +209,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #E91D24;
+  background-color: #000;
   border-color: transparent;
   color: #fff;
 }
@@ -224,11 +224,10 @@ input:disabled {
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
-  margin-left: 10px;
-  margin-top: 10px;
+  margin-top: 50px;
 }
 .sub-text p {
-  color: #ff0000;
+  color: #000;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 26px;

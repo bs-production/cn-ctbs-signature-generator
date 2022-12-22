@@ -6,9 +6,9 @@
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
               <a href="https://www.klausroofingsystems.com">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/krs-output-logo.png" name="preview-image-url" />
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2948/signature-logo-bar-krs-gs.png" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/krs-output-logo.png" name="preview-image-url" />
+                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2948/signature-logo-bar-krs-gs.png" name="preview-image-url" />
               </a>
             </td>
             
@@ -18,7 +18,7 @@
             "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
               <tr>
                   <td colspan="2" style=
-                  "padding-bottom: 5px; color: #E91D24; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
+                  "padding-bottom: 5px; color: #000; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
                   {{fullName}}
                   </td>
                 </tr>
@@ -34,7 +34,7 @@
              
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #E91D24; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Office:
                   </td>
                   <td valign="top" style=
@@ -44,7 +44,7 @@
                 </tr>
                 <tr v-show="mobilePhoneSwitch">
                 <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #E91D24; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Mobile:
                   </td>
                   <td valign="top" style=
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                     <td width="20" valign="top" style=
-                    "vertical-align: top; width: 20px; color: #E91D24; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                     Email:
                     </td>
                     <td valign="top" style=
@@ -65,7 +65,7 @@
                   </tr>
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #E91D24; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Web:
                   </td>
                   <td valign="top" style=
@@ -167,6 +167,6 @@ li {
 }
 
 a {
-  color: #E91D24;
+  color: #000;
 }
 </style>
