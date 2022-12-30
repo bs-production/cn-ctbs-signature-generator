@@ -5,12 +5,19 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
+              
+                <!-- <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2948/signature-logo-bar-krs-gs.png" name="preview-image-url" /> -->
+                
               <a href="https://www.klausroofingsystems.com">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2948/signature-logo-bar-krs-gs.png" name="preview-image-url" />
-        
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2948/signature-logo-bar-krs-gs.png" name="preview-image-url" />
+                <img width="95" height="121" style="width: 95px; max-width: 95px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2721/signature-logo-bar-krs-only.png" name="preview-image-url" />
+                </a>
+                
+                <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
+                <a href="https://www.guttershutter.com">
+                <img width="95" height="121" style="width: 95px; max-width: 95px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2721/signature-logo-bar-gs-only.png" name="preview-image-url" />
               </a>
-            </td>
+               </td>
+            
             
             <td style=
             "padding-top: 0; padding-bottom: 0; padding-left: 5px; padding-right: 0;">
