@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Master Services logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of logo, click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
