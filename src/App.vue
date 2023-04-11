@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/2948/krs-gs-logos.png" alt="" style="width:475px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/872/cn-ctbs-logo-toppng.png" alt="" style="width:475px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2023 Klaus Roofing Systems | Gutter Shutter
+                    &copy;2023 Connecticut Basement Systems | Contractor Nation
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #000;
+  border-top: 1px dashed #00095a;
 }
 .gif-box ul {
     text-align:left;
@@ -209,25 +209,25 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #000;
+  background-color: #00095a;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #b90006;
+  background-color: #ff7f30;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #b90006;
+  border-color: #ff7f30;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
   margin-top: 50px;
 }
 .sub-text p {
-  color: #000;
+  color: #00095a;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 26px;
@@ -236,7 +236,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #b90006;
+  border-color: #ff7f30;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,

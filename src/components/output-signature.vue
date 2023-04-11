@@ -8,13 +8,13 @@
               
                 <!-- <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2948/signature-logo-bar-krs-gs.png" name="preview-image-url" /> -->
                 
-              <a href="https://www.klausroofingsystems.com">
-                <img width="95" height="121" style="width: 95px; max-width: 95px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2721/signature-logo-bar-krs-only.png" name="preview-image-url" />
+              <a href="https://www.connecticutbasementsystems.com">
+                <img width="95" height="121" style="width: 95px; max-width: 95px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/872/ctbs-cn-logo.png" name="preview-image-url" />
                 </a>
                 
                 <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
-                <a href="https://www.guttershutter.com">
-                <img width="95" height="121" style="width: 95px; max-width: 95px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2721/signature-logo-bar-gs-only.png" name="preview-image-url" />
+                <a href="https://www.contractornation.com/">
+                <img width="95" height="121" style="width: 95px; max-width: 95px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/872/cn-ctbs-logo-bar.png" name="preview-image-url" />
               </a>
                </td>
             
@@ -25,13 +25,13 @@
             "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
               <tr>
                   <td colspan="2" style=
-                  "padding-bottom: 5px; color: #000; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
+                  "padding-bottom: 5px; color: #00095a; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
                   {{fullName}}
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2" style=
-                  "color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "color: #00095a;; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <em>{{title}}</em>
                   </td>
                 </tr>
@@ -41,50 +41,50 @@
              
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #00095a; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Office:
                   </td>
                   <td valign="top" style=
-                  "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; color: #00095a;; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   {{phone}}
                   </td>
                 </tr>
                 <tr v-show="mobilePhoneSwitch">
                 <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #00095a; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Mobile:
                   </td>
                   <td valign="top" style=
-                  "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; color: #00095a;; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   {{mobilePhone}}
                   </td>
                 </tr>
                 <tr>
                     <td width="20" valign="top" style=
-                    "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    "vertical-align: top; width: 20px; color: #00095a; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                     Email:
                     </td>
                     <td valign="top" style=
-                    "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                    <a :href="`mailto:${this.email}`" style="color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">{{email}}</a>
+                    "vertical-align: top; color: #00095a;; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    <a :href="`mailto:${this.email}`" style="color: #00095a;; text-decoration: none; font-weight: normal; font-size: 14px;">{{email}}</a>
                       &nbsp;&nbsp;
                     </td>
                   </tr>
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #000; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #00095a; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Web:
                   </td>
                   <td valign="top" style=
-                  "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.klausroofingsystems.com" target="_blank" style=
-                  "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    klausroofingsystems.com</a>
+                  "vertical-align: top; color: #00095a;; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  <a href="https://www.contractornation.com/" target="_blank" style=
+                  "color: #00095a;; text-decoration: none; font-weight: normal; font-size: 14px;">
+                    contractornation.com</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
 
-                <tr>
+                <!-- <tr>
                   <td colspan="2" style="padding-top: 5px;">
                     <a href="https://www.facebook.com/klausroofingsystems/" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
@@ -100,13 +100,13 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a>
                     
-                    <!-- <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw" target="_blank"
+                    <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/youtube.png" /></a> -->
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/youtube.png" /></a>
 
                     <a href="https://www.instagram.com/klausroofingsystems/" target="_blank"
                     style=
@@ -116,12 +116,12 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/instagram.png" /></a>
                   </td>
-                </tr>
+                </tr> -->
               </table>
             </td>
           </tr>
         </table>
-          <p style="font-size: 10px; color: #000; line-height: 12px;text-align: left; width: 450px" width="450">This message contains confidential information and is intended only for the intended recipients. If you are not an intended recipient you should not disseminate, distribute or copy this e-mail. Please notify us immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. Therefore we do not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.</p>
+          <p style="font-size: 10px; color: #00095a; line-height: 12px;text-align: left; width: 450px" width="450">This message contains confidential information and is intended only for the intended recipients. If you are not an intended recipient you should not disseminate, distribute or copy this e-mail. Please notify us immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses. Therefore we do not accept liability for any errors or omissions in the contents of this message, which arise as a result of e-mail transmission. If verification is required please request a hard-copy version.</p>
     </section>
   </div>
 </template>
@@ -174,6 +174,6 @@ li {
 }
 
 a {
-  color: #000;
+  color: #00095a;
 }
 </style>
